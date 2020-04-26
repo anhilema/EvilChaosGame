@@ -7,7 +7,7 @@
 
 This game was developed as a final project for C220 as part of a 48-hour game jam. 
 
-When we considered the theme of ____, we thought about it this way:
+When we considered the theme of Corona, we thought about it this way:
 
 These are the struggles and surprises we encountered as we developed it:
 
@@ -27,6 +27,8 @@ Future plans:
     * Contributions
   * Member 2
     * Contributions
-  * Member 3
-    * Contributions
+  * Shannon Master (kittenatheart)
+    * Music Composition
+    * Sound Design
+    * Sound implementation
 
