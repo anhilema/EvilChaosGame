@@ -1,0 +1,55 @@
+Name: Alysha Pitman
+Date: 5/2/2020
+
+Project: Evil Chaos Game
+Group's repository: https://github.com/anhilema/EvilChaosGame
+
+
+
+What is something you learned by reviewing this group's project?
+- I suppose I learned what these specific people are capable of as far as designing a game with Godot goes.
+ 
+
+In what ways does this game reflect the theme?
+- Here, the subject of coronavirus has been transformed into a rather fitting zombie shooter game. 
+- There are sound effects of coughing as enemys come towards the player and spread what appears to be germs in their direction which cause damage to the player. 
+- This game plays on the fear aspect of coronavirus and sort of addresses the obvious relation to games revolving around zombies and disease spread. 
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+- They really utilized the idea of "juicing" a game; inlcuded a beautiful background, sound effects, and an interesting way that enemies are introduced. 
+- So I suppose I'm inspired by their own particular juiciness . . . 
+ 
+
+What suggestions would you have for this group to improve the game?
+- Aside from simply expanding on it, I thought the player model was a bit hard to control, which is frustrating for shooting games, 
+so I'd like to see a more controllable player model.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+- Actually I thought their GDScript was very clean looking, easy to understand even for Python beginners. 
+ 
+
+Is it clear that every group member participated?
+- Granted, I don't know about the actual group member's contribution because I don't know these people and had nothing to do with the project,
+but the game is heavy on art and programming that's for sure. 
+ 
+
+Does the repository contain an appropriate LICENSE?
+- The license only has one member's name listed at the top, but if that's enough then yeah, it's there. 
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+- The read.me actually had some instructions in it I didn't know existed in the game. 
+- I suppose if they had to add something, they could include a few lines about their progress in making the game. 
+ 
+
+Pay a compliment to the group based on the quality of the game.
+- I thought the concept was cool, one I've had myself about this whole situation. 
+- You guys did really well on the juicing aspect as I've afore mentioned. 
+- For 48 hours it's well done. Whoever was in charge of programming seems to know their stuff. 
+
+
+How many of your points would you allocate to this project?
+- I have 5 to give which is a bit awkward. Let's say 3. 
+
