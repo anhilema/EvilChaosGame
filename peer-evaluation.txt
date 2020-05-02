@@ -1,0 +1,47 @@
+Name: Casey Luthman
+Date: 05/02/2020
+
+Project: 
+Group's repository: 
+
+   https://github.com/anhilema/EvilChaosGame
+
+What is something you learned by reviewing this group's project?
+
+   I learned how to make particle emit from an enemy as they move.
+
+In what ways does this game reflect the theme?
+
+   This game reflects the theme by displaying a battle between the sick and the healthy with the virus as the weapon.
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+   I would like to apply the random spawing feature of the game's enemies.
+
+What suggestions would you have for this group to improve the game?
+
+   In order to improve the game I would make it less difficult. As it is now, the amount of enemies is overwhelming, and I cant last more than 10 seconds without dying.
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+   There was nothing confusing to me.
+
+Is it clear that every group member participated?
+
+   Yes. One worked with sound, one worked with special code, and the other did art and base code.
+
+Does the repository contain an appropriate LICENSE?
+
+   Yes it does.
+
+What is something the group could add to the README.md to make it more descriptive?
+
+   They could better explain the obective of the game. Is the player trying to survive for a certain amount of time? Are they trying to collect a certain amount of points?
+
+Pay a compliment to the group based on the quality of the game.
+
+   The art of the game and the controls all feel really nice together. It successfully accomplishes
+
+How many of your points would you allocate to this project?
+
+   I will allocate 2 of my 5 points.
